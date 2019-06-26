@@ -1,2 +1,10 @@
 # Jest-js
-# jest-tdd
+![](install-project.gif)
+
+## Installation
+
+OS X & Linux:
+
+```sh
+yarn install && yarn start
+```
